@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone, my name is Assylken Taukenov. I am a software engineer. 👋
 
 <!--
 **Assylken/assylken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
