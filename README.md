@@ -6,7 +6,7 @@ I am a Next Js developer. I have an experience in different projects related to 
 - 💻 Django development - Image Classification | KERAS, CIFAR-10. Developed CNN-based image classifier.
 - 💻 Decentralized music streaming platform | Solidity, IPFS, Nest Js, Next Js.
 
-I am interested in various joint projects and cooperation. <\br>
+I am interested in various joint projects and cooperation. \
 Reach me: asylken02@gmail.com
 <!--
 **Assylken/assylken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
